@@ -10,7 +10,7 @@ My experience in Human Resources and music instruction make communication & lead
 
 * 🌍  I'm based in Austin
 * ✉️  You can contact me at [andrewwink@gmail.com](mailto:andrewwink@gmail.com)
-* 🚀  I'm currently working on [Honk - A Blogging Platform](http://comingsoon.com)
+* 🚀  I'm currently working on writing Selenium tests
 * 🧠  I'm learning Selenium, Typescript
 
 ### Skills
